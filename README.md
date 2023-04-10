@@ -1,4 +1,4 @@
-# spring-k8s-deployment-project
+# Spring Boot + MySQL API project with deployment on Local rancher - Kubernetes cluster
 
 # This project is a learning project to exercise the following:
 - Build Spring boot application with MYSQL Database connectivity allowing to do basic CRUD operations
