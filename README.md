@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/59464659/230991821-1c5a2637-be15-4d4f-9657-6e9edc618b7e.png)
 
-# All DB and Application pods and services up
+# All DB, Application pods and services up
 
 ![image](https://user-images.githubusercontent.com/59464659/230991976-bf07d067-7eb5-4ef0-b2d6-0d123d2424c1.png)
 
